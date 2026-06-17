@@ -1,0 +1,14 @@
+{
+  "farm_start": "Start Farm",
+  "farm_stop": "Stop Farm",
+  "process_start": "Start Processing",
+  "process_stop": "Stop Processing",
+  "missing_item": "You are missing %s to process",
+  "farming": "Farming",
+  "processing": "Processing",
+  "too_fast": "You are doing this too fast",
+  "outside_zone": "You are outside the zone",
+  "no_items": "You don't have enough materials",
+  "item_added": "You received %sx %s",
+  "invalid_item": "Invalid item"
+}

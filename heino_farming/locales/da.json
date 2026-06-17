@@ -1,0 +1,14 @@
+{
+  "farm_start": "Start Høst",
+  "farm_stop": "Stop Høst",
+  "process_start": "Start Omdan",
+  "process_stop": "Stop Omdan",
+  "missing_item": "Du mangler %s for at omdanne",
+  "farming": "Høster",
+  "processing": "Omdanner",
+  "too_fast": "Du gør dette for hurtigt",
+  "outside_zone": "Du er uden for zonen",
+  "no_items": "Du har ikke nok materialer",
+  "item_added": "Du har modtaget %sx %s",
+  "invalid_item": "Ugyldig genstand"
+}
